@@ -26,6 +26,6 @@ if you need to reach me write to my discord account = eos#4598
   <a</a>
   <a></a> 
  
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/eoszs/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
