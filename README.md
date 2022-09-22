@@ -12,7 +12,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="Eos-pic" height="150" style="border-radius:50px;" src="file:///C:/Users/nazir/Desktop/d216836bb2bf167b9c1dac112831f508.jpg">
+  <img align="right" alt="Eos-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1009209947394949243/1022521061616668745/d216836bb2bf167b9c1dac112831f508.jpg">
 </div>
   
   ##
