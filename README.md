@@ -1,5 +1,6 @@
 ## Hello there! I hope you like my environment good luck !!
 if you need to reach me write to my discord account = eos#4598
+take care of yourself !! 🎄
 <div align="center">
   <a href="https://github.com/eoszs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eoszs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
