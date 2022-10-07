@@ -1,5 +1,5 @@
 ## Hello there! I hope you like my environment good luck !!
-if you need to reach me write to my discord account = eos#4598
+if you need to reach me write to my discord account = Yoshida#4598
 
 <div align="center">
   <a href="https://github.com/eoszs">
